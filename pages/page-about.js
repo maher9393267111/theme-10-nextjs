@@ -17,13 +17,13 @@ export default function Home() {
                             <div className="col-xl-10 col-lg-12">
                                 <div className="banner">
                                     <div className="row align-items-end">
-                                        <div className="col-lg-6 mb-4 pt-100"><span className="text-sm-bold color-gray-600 wow animate__animated animate__fadeInUp">Hello Everyone!</span>
+                                        <div className="col-lg-6  mb-10 pt-100"><span className="text-sm-bold color-gray-600 wow animate__animated animate__fadeInUp">Hello Everyone!</span>
                                             <h1 className="color-gray-50 mt-20 mb-20 wow animate__animated animate__fadeInUp">I’m
                                                 {/* <Link className="typewrite color-linear" href="#" data-period={3000} data-type="[ &quot;Brian Clark&quot;, &quot;Designer&quot;, &quot;Creator&quot; ]" /> */}
                                                 <Typewriter
                                                     options={{
                                                         wrapperClassName: "typewrite color-linear",
-                                                        strings: ['Mohammed Jumah', 'Full Stack Web Developer' ,'Freelancer'],
+                                                        strings: ['Mohammed ', 'Developer' ,'Freelancer'],
                                                         autoStart: true,
                                                         loop: true,
                                                     }}

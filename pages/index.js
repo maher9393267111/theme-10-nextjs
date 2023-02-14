@@ -22,7 +22,7 @@ export default function Home() {
               <div className="col-xl-10 col-lg-12">
                 <div className="banner">
                   <div className="row align-items-end">
-                    <div className="col-lg-6 pt-100">
+                    <div className="col-lg-8 pt-100">
                       <span className="text-sm-bold color-gray-600 wow animate__animated animate__fadeInUp">
                         Hello Everyone!
                       </span>
@@ -32,7 +32,7 @@ export default function Home() {
                         <Typewriter
                           options={{
                             wrapperClassName: "typewrite color-linear",
-                            strings: ["Mohammed Jumah", "Full Stack Web Developer"],
+                            strings: ["Mohammed ", " Web Developer"],
                             autoStart: true,
                             loop: true,
                           }}
@@ -72,7 +72,7 @@ export default function Home() {
                     </div>
    
 
-                    <div className="col-lg-6 text-center">
+                    <div className="col-lg-4 text-center">
                       <div className="banner-img no-bg">
                         <div className="banner-me shape-1">
                           <img
