@@ -926,7 +926,7 @@ export default function Home() {
                         <div className="card-image hover-up">
                           <Link href="/">
                             <img
-                              src="assets/imgs/page/homepage1/img-news-5.jpg"
+                              src="assets/imgs/page/homepage1/img-news-7.jpg"
                               alt="img"
                             />
                           </Link>
