@@ -36,7 +36,7 @@ const BlogDetails = () => {
                             </Link>
                           </li>
                           <li>
-                            <Link href="/blog-archive">Blog</Link>
+                            <Link href="/">Blog</Link>
                           </li>
                           <li>
                             <span>
@@ -225,25 +225,25 @@ const BlogDetails = () => {
                         <div className="box-tags">
                           <Link
                             className="btn btn-tags bg-gray-850 border-gray-800 mr-10 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             #Nature
                           </Link>
                           <Link
                             className="btn btn-tags bg-gray-850 border-gray-800 mr-10 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             #Beauty
                           </Link>
                           <Link
                             className="btn btn-tags bg-gray-850 border-gray-800 mr-10 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             #Travel Tips
                           </Link>
                           <Link
                             className="btn btn-tags bg-gray-850 border-gray-800 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             #House
                           </Link>
@@ -375,7 +375,7 @@ const BlogDetails = () => {
                                 <div className="item-cats border-gray-800 wow animate__animated animate__fadeIn">
                                   <div className="cat-left">
                                     <div className="imaimg-cat">
-                                      <Link href="/blog-archive">
+                                      <Link href="/">
                                         <img
                                           src="/assets/imgs/page/healthy/cat1.png"
                                           alt=""
@@ -385,7 +385,7 @@ const BlogDetails = () => {
                                     <div className="info-cat">
                                       <Link
                                         className="color-gray-500 text-xl"
-                                        href="/blog-archive"
+                                        href="/"
                                       >
                                         Travel Tips
                                       </Link>
@@ -394,7 +394,7 @@ const BlogDetails = () => {
                                   <div className="cat-right">
                                     <Link
                                       className="btn btn-small text-sm color-gray-500 bg-gray-800"
-                                      href="/blog-archive"
+                                      href="/"
                                     >
                                       36 posts
                                     </Link>
@@ -403,7 +403,7 @@ const BlogDetails = () => {
                                 <div className="item-cats border-gray-800 wow animate__animated animate__fadeIn">
                                   <div className="cat-left">
                                     <div className="imaimg-cat">
-                                      <Link href="/blog-archive-2">
+                                      <Link href="/">
                                         <img
                                           src="/assets/imgs/page/healthy/cat2.png"
                                           alt=""
@@ -413,7 +413,7 @@ const BlogDetails = () => {
                                     <div className="info-cat">
                                       <Link
                                         className="color-gray-500 text-xl"
-                                        href="/blog-archive-2"
+                                        href="/"
                                       >
                                         Technology
                                       </Link>
@@ -422,7 +422,7 @@ const BlogDetails = () => {
                                   <div className="cat-right">
                                     <Link
                                       className="btn btn-small text-sm color-gray-500 bg-gray-800"
-                                      href="/blog-archive-2"
+                                      href="/"
                                     >
                                       14 posts
                                     </Link>
@@ -431,7 +431,7 @@ const BlogDetails = () => {
                                 <div className="item-cats border-gray-800 wow animate__animated animate__fadeIn">
                                   <div className="cat-left">
                                     <div className="imaimg-cat">
-                                      <Link href="/blog-archive-3">
+                                      <Link href="/">
                                         <img
                                           src="/assets/imgs/page/healthy/cat3.png"
                                           alt=""
@@ -441,7 +441,7 @@ const BlogDetails = () => {
                                     <div className="info-cat">
                                       <Link
                                         className="color-gray-500 text-xl"
-                                        href="/blog-archive-3"
+                                        href="/"
                                       >
                                         Business
                                       </Link>
@@ -450,7 +450,7 @@ const BlogDetails = () => {
                                   <div className="cat-right">
                                     <Link
                                       className="btn btn-small text-sm color-gray-500 bg-gray-800"
-                                      href="/blog-archive-3"
+                                      href="/"
                                     >
                                       87 posts
                                     </Link>
@@ -459,7 +459,7 @@ const BlogDetails = () => {
                                 <div className="item-cats border-gray-800 wow animate__animated animate__fadeIn">
                                   <div className="cat-left">
                                     <div className="imaimg-cat">
-                                      <Link href="/blog-archive-4">
+                                      <Link href="/-4">
                                         <img
                                           src="/assets/imgs/page/healthy/cat4.png"
                                           alt=""
@@ -469,7 +469,7 @@ const BlogDetails = () => {
                                     <div className="info-cat">
                                       <Link
                                         className="color-gray-500 text-xl"
-                                        href="/blog-archive-4"
+                                        href="/-4"
                                       >
                                         Food
                                       </Link>
@@ -478,7 +478,7 @@ const BlogDetails = () => {
                                   <div className="cat-right">
                                     <Link
                                       className="btn btn-small text-sm color-gray-500 bg-gray-800"
-                                      href="/blog-archive-4"
+                                      href="/-4"
                                     >
                                       125 posts
                                     </Link>
@@ -487,7 +487,7 @@ const BlogDetails = () => {
                                 <div className="item-cats border-gray-800 wow animate__animated animate__fadeIn">
                                   <div className="cat-left">
                                     <div className="imaimg-cat">
-                                      <Link href="/blog-archive-5">
+                                      <Link href="/-5">
                                         <img
                                           src="/assets/imgs/page/healthy/cat5.png"
                                           alt=""
@@ -497,7 +497,7 @@ const BlogDetails = () => {
                                     <div className="info-cat">
                                       <Link
                                         className="color-gray-500 text-xl"
-                                        href="/blog-archive-5"
+                                        href="/-5"
                                       >
                                         Lifestyle
                                       </Link>
@@ -506,7 +506,7 @@ const BlogDetails = () => {
                                   <div className="cat-right">
                                     <Link
                                       className="btn btn-small text-sm color-gray-500 bg-gray-800"
-                                      href="/blog-archive-5"
+                                      href="/-5"
                                     >
                                       6 posts
                                     </Link>
@@ -523,7 +523,7 @@ const BlogDetails = () => {
                               <div className="list-posts">
                                 <div className="item-post wow animate__animated animate__fadeIn">
                                   <div className="imaimg-post">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <img
                                         src="/assets/imgs/page/homepage1/img-post.jpg"
                                         alt=""
@@ -531,7 +531,7 @@ const BlogDetails = () => {
                                     </Link>
                                   </div>
                                   <div className="info-post border-gray-800">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <h6 className="color-white">
                                         Creating is a privileimg but it’s also a
                                         gift
@@ -549,7 +549,7 @@ const BlogDetails = () => {
                                 </div>
                                 <div className="item-post wow animate__animated animate__fadeIn">
                                   <div className="imaimg-post">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <img
                                         src="/assets/imgs/page/homepage1/img-post2.jpg"
                                         alt=""
@@ -557,7 +557,7 @@ const BlogDetails = () => {
                                     </Link>
                                   </div>
                                   <div className="info-post border-gray-800">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <h6 className="color-white">
                                         Being unique is better than being
                                         perfect
@@ -575,7 +575,7 @@ const BlogDetails = () => {
                                 </div>
                                 <div className="item-post wow animate__animated animate__fadeIn">
                                   <div className="imaimg-post">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <img
                                         src="/assets/imgs/page/homepage1/img-post3.jpg"
                                         alt=""
@@ -583,7 +583,7 @@ const BlogDetails = () => {
                                     </Link>
                                   </div>
                                   <div className="info-post border-gray-800">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <h6 className="color-white">
                                         Every day, in every city and town across
                                         the country
@@ -601,7 +601,7 @@ const BlogDetails = () => {
                                 </div>
                                 <div className="item-post wow animate__animated animate__fadeIn">
                                   <div className="imaimg-post">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <img
                                         src="/assets/imgs/page/homepage1/img-post4.jpg"
                                         alt=""
@@ -609,7 +609,7 @@ const BlogDetails = () => {
                                     </Link>
                                   </div>
                                   <div className="info-post border-gray-800">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <h6 className="color-white">
                                         Your voice, your mind, your story, your
                                         vision
@@ -627,7 +627,7 @@ const BlogDetails = () => {
                                 </div>
                                 <div className="item-post wow animate__animated animate__fadeIn">
                                   <div className="imaimg-post">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <img
                                         src="/assets/imgs/page/homepage1/img-post4.jpg"
                                         alt=""
@@ -635,7 +635,7 @@ const BlogDetails = () => {
                                     </Link>
                                   </div>
                                   <div className="info-post border-gray-800">
-                                    <Link href="/single-sidebar">
+                                    <Link href="/">
                                       <h6 className="color-white">
                                         Your voice, your mind, your story, your
                                         vision
@@ -828,61 +828,61 @@ const BlogDetails = () => {
                             <div className="content-sidebar pb-20">
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Technology
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Travel
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Interior
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Minimal
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Plant
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Nature
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Business
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Animal
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Healthy
                               </Link>
                               <Link
                                 className="btn btn-tags bg-gray-850 border-gray-800 mr-10 mb-10 bdrd16 wow animate__animated animate__fadeIn"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 Space
                               </Link>

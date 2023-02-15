@@ -42,7 +42,8 @@ const Sidebar = ({ openClass }) => {
                                     <li><Link className="color-gray-500" href="/page-signup">Register</Link></li>
                                     <li><Link className="color-gray-500" href="/blogs">blogs</Link></li>
                                       
-                                        <li><Link href="/page-contact">Contact</Link></li>
+                                        <li><Link className="color-gray-500" href="/page-contact">Contact</Link></li>
+                                        
                                     </ul>
                                 </nav>
                             </div>

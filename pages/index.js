@@ -102,8 +102,8 @@ export default function Home() {
                   <div className="col-lg-6 wow animate__animated animate__fadeIn">
                     <div className="card-blog-1 hover-up">
                       <div className="card-image mb-20">
-                        <Link className="post-type" href="/blog-archive" />
-                        <Link href="/single-sidebar">
+                        <Link className="post-type" href="/" />
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/news2.png"
                             alt="img"
@@ -115,14 +115,14 @@ export default function Home() {
                           <div className="col-7">
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Travel
                             </Link>
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               #Lifestyle
                             </Link>
@@ -133,7 +133,7 @@ export default function Home() {
                             </span>
                           </div>
                         </div>
-                        <Link href="/single-sidebar">
+                        <Link href="/">
                           <h4 className="color-white mt-20">
                             {" "}
                             Self-observation is the first step of inner
@@ -158,7 +158,7 @@ export default function Home() {
                           <div className="col-5 text-end">
                             <Link
                               className="readmore color-gray-500 text-sm"
-                              href="/single-sidebar"
+                              href="/"
                             >
                               <span>Read more</span>
                             </Link>
@@ -173,8 +173,8 @@ export default function Home() {
                   >
                     <div className="card-blog-1 hover-up">
                       <div className="card-image mb-20">
-                        <Link className="post-type" href="/blog-archive" />
-                        <Link href="/single-sidebar">
+                        <Link className="post-type" href="/" />
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/news1.png"
                             alt="img"
@@ -186,14 +186,14 @@ export default function Home() {
                           <div className="col-7">
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Design
                             </Link>
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Movie
@@ -205,7 +205,7 @@ export default function Home() {
                             </span>
                           </div>
                         </div>
-                        <Link href="/single-sidebar">
+                        <Link href="/">
                           <h4 className="color-white mt-20">
                             {" "}
                             Self-observation is the first step of inner
@@ -230,7 +230,7 @@ export default function Home() {
                           <div className="col-5 text-end">
                             <Link
                               className="readmore color-gray-500 text-sm"
-                              href="/single-sidebar"
+                              href="/"
                             >
                               <span>Read more</span>
                             </Link>
@@ -245,8 +245,8 @@ export default function Home() {
                   >
                     <div className="card-blog-1 hover-up">
                       <div className="card-image mb-20">
-                        <Link className="post-type" href="/blog-archive" />
-                        <Link href="/single-sidebar">
+                        <Link className="post-type" href="/" />
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/news3.png"
                             alt="img"
@@ -258,14 +258,14 @@ export default function Home() {
                           <div className="col-7">
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Design
                             </Link>
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Movie
@@ -277,7 +277,7 @@ export default function Home() {
                             </span>
                           </div>
                         </div>
-                        <Link href="/single-sidebar">
+                        <Link href="/">
                           <h5 className="color-white mt-20">
                             {" "}
                             Self-observation is the first step of inner
@@ -302,7 +302,7 @@ export default function Home() {
                           <div className="col-5 text-end">
                             <Link
                               className="readmore color-gray-500 text-sm"
-                              href="/single-sidebar"
+                              href="/"
                             >
                               <span>Read more</span>
                             </Link>
@@ -317,8 +317,8 @@ export default function Home() {
                   >
                     <div className="card-blog-1 hover-up">
                       <div className="card-image mb-20">
-                        <Link className="post-type" href="/blog-archive" />
-                        <Link href="/single-sidebar">
+                        <Link className="post-type" href="/" />
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/news4.png"
                             alt="img"
@@ -330,14 +330,14 @@ export default function Home() {
                           <div className="col-7">
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Design
                             </Link>
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Movie
@@ -349,7 +349,7 @@ export default function Home() {
                             </span>
                           </div>
                         </div>
-                        <Link href="/single-sidebar">
+                        <Link href="/">
                           <h5 className="color-white mt-20">
                             {" "}
                             Self-observation is the first step of inner
@@ -374,7 +374,7 @@ export default function Home() {
                           <div className="col-5 text-end">
                             <Link
                               className="readmore color-gray-500 text-sm"
-                              href="/single-sidebar"
+                              href="/"
                             >
                               <span>Read more</span>
                             </Link>
@@ -389,8 +389,8 @@ export default function Home() {
                   >
                     <div className="card-blog-1 hover-up">
                       <div className="card-image mb-20">
-                        <Link className="post-type" href="/blog-archive" />
-                        <Link href="/single-sidebar">
+                        <Link className="post-type" href="/" />
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/news5.png"
                             alt="img"
@@ -402,14 +402,14 @@ export default function Home() {
                           <div className="col-7">
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Design
                             </Link>
                             <Link
                               className="color-gray-700 text-sm"
-                              href="/blog-archive"
+                              href="/"
                             >
                               {" "}
                               #Movie
@@ -421,7 +421,7 @@ export default function Home() {
                             </span>
                           </div>
                         </div>
-                        <Link href="/single-sidebar">
+                        <Link href="/">
                           <h5 className="color-white mt-20">
                             {" "}
                             Self-observation is the first step of inner
@@ -446,7 +446,7 @@ export default function Home() {
                           <div className="col-5 text-end">
                             <Link
                               className="readmore color-gray-500 text-sm"
-                              href="/single-sidebar"
+                              href="/"
                             >
                               <span>Read more</span>
                             </Link>
@@ -478,7 +478,7 @@ export default function Home() {
                       data-wow-delay="0s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag1.png"
                             alt="img"
@@ -486,7 +486,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Travel
                         </Link>
                       </div>
@@ -498,7 +498,7 @@ export default function Home() {
                       data-wow-delay="0.1s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag2.png"
                             alt="img"
@@ -506,7 +506,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Culture
                         </Link>
                       </div>
@@ -518,7 +518,7 @@ export default function Home() {
                       data-wow-delay="0.2s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag3.png"
                             alt="img"
@@ -526,7 +526,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Lifestyle
                         </Link>
                       </div>
@@ -538,7 +538,7 @@ export default function Home() {
                       data-wow-delay="0.3s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag4.png"
                             alt="img"
@@ -546,7 +546,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Fashion
                         </Link>
                       </div>
@@ -558,7 +558,7 @@ export default function Home() {
                       data-wow-delay="0.4s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag5.png"
                             alt="img"
@@ -566,7 +566,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Food
                         </Link>
                       </div>
@@ -578,7 +578,7 @@ export default function Home() {
                       data-wow-delay="0.5s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag6.png"
                             alt="img"
@@ -586,7 +586,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Space
                         </Link>
                       </div>
@@ -598,7 +598,7 @@ export default function Home() {
                       data-wow-delay="0.1s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag7.png"
                             alt="img"
@@ -606,7 +606,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Animal
                         </Link>
                       </div>
@@ -618,7 +618,7 @@ export default function Home() {
                       data-wow-delay="0.2s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag8.png"
                             alt="img"
@@ -626,7 +626,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Minimal
                         </Link>
                       </div>
@@ -638,7 +638,7 @@ export default function Home() {
                       data-wow-delay="0.3s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag9.png"
                             alt="img"
@@ -646,7 +646,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Interior
                         </Link>
                       </div>
@@ -658,7 +658,7 @@ export default function Home() {
                       data-wow-delay="0.4s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag10.png"
                             alt="img"
@@ -666,7 +666,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Plant
                         </Link>
                       </div>
@@ -678,7 +678,7 @@ export default function Home() {
                       data-wow-delay="0.5s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag11.png"
                             alt="img"
@@ -686,7 +686,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Nature
                         </Link>
                       </div>
@@ -698,7 +698,7 @@ export default function Home() {
                       data-wow-delay="0.6s"
                     >
                       <div className="card-image">
-                        <Link href="/blog-archive">
+                        <Link href="/">
                           <img
                             src="assets/imgs/page/homepage1/tag12.png"
                             alt="img"
@@ -706,7 +706,7 @@ export default function Home() {
                         </Link>
                       </div>
                       <div className="card-info">
-                        <Link className="color-gray-500" href="/blog-archive">
+                        <Link className="color-gray-500" href="/">
                           Business
                         </Link>
                       </div>
@@ -724,7 +724,7 @@ export default function Home() {
                     <div className="box-list-posts mt-70">
                       <div className="card-list-posts wow animate__animated animate__fadeIn">
                         <div className="card-image hover-up">
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <img
                               src="assets/imgs/page/homepage1/img-news-1.jpg"
                               alt="img"
@@ -734,11 +734,11 @@ export default function Home() {
                         <div className="card-info">
                           <Link
                             className="btn btn-tag bg-gray-800 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             Working Tips
                           </Link>
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <h4 className="mt-15 mb-20 color-white">
                               Helpful Tips for Working from Home as a Freelancer
                             </h4>
@@ -753,13 +753,13 @@ export default function Home() {
                             <div className="col-7">
                               <Link
                                 className="color-gray-700 text-sm mr-15"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Travel
                               </Link>
                               <Link
                                 className="color-gray-700 text-sm"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Lifestyle
                               </Link>
@@ -774,7 +774,7 @@ export default function Home() {
                       </div>
                       <div className="card-list-posts wow animate__animated animate__fadeIn">
                         <div className="card-image hover-up">
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <img
                               src="assets/imgs/page/homepage1/img-news-2.jpg"
                               alt="img"
@@ -784,11 +784,11 @@ export default function Home() {
                         <div className="card-info">
                           <Link
                             className="btn btn-tag bg-gray-800 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             Working Tips
                           </Link>
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <h4 className="mt-15 mb-20 color-white">
                               Helpful Tips for Working from Home as a Freelancer
                             </h4>
@@ -803,13 +803,13 @@ export default function Home() {
                             <div className="col-7">
                               <Link
                                 className="color-gray-700 text-sm mr-15"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Travel
                               </Link>
                               <Link
                                 className="color-gray-700 text-sm"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Lifestyle
                               </Link>
@@ -824,7 +824,7 @@ export default function Home() {
                       </div>
                       <div className="card-list-posts wow animate__animated animate__fadeIn">
                         <div className="card-image hover-up">
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <img
                               src="assets/imgs/page/homepage1/img-news-3.jpg"
                               alt="img"
@@ -834,11 +834,11 @@ export default function Home() {
                         <div className="card-info">
                           <Link
                             className="btn btn-tag bg-gray-800 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             Working Tips
                           </Link>
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <h4 className="mt-15 mb-20 color-white">
                               Helpful Tips for Working from Home as a Freelancer
                             </h4>
@@ -853,13 +853,13 @@ export default function Home() {
                             <div className="col-7">
                               <Link
                                 className="color-gray-700 text-sm mr-15"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Travel
                               </Link>
                               <Link
                                 className="color-gray-700 text-sm"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Lifestyle
                               </Link>
@@ -874,7 +874,7 @@ export default function Home() {
                       </div>
                       <div className="card-list-posts wow animate__animated animate__fadeIn">
                         <div className="card-image hover-up">
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <img
                               src="assets/imgs/page/homepage1/img-news-4.jpg"
                               alt="img"
@@ -884,11 +884,11 @@ export default function Home() {
                         <div className="card-info">
                           <Link
                             className="btn btn-tag bg-gray-800 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             Working Tips
                           </Link>
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <h4 className="mt-15 mb-20 color-white">
                               Helpful Tips for Working from Home as a Freelancer
                             </h4>
@@ -903,13 +903,13 @@ export default function Home() {
                             <div className="col-7">
                               <Link
                                 className="color-gray-700 text-sm mr-15"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Travel
                               </Link>
                               <Link
                                 className="color-gray-700 text-sm"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Lifestyle
                               </Link>
@@ -924,7 +924,7 @@ export default function Home() {
                       </div>
                       <div className="card-list-posts wow animate__animated animate__fadeIn">
                         <div className="card-image hover-up">
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <img
                               src="assets/imgs/page/homepage1/img-news-5.jpg"
                               alt="img"
@@ -934,11 +934,11 @@ export default function Home() {
                         <div className="card-info">
                           <Link
                             className="btn btn-tag bg-gray-800 hover-up"
-                            href="/blog-archive"
+                            href="/"
                           >
                             Working Tips
                           </Link>
-                          <Link href="/single-sidebar">
+                          <Link href="/">
                             <h4 className="mt-15 mb-20 color-white">
                               Helpful Tips for Working from Home as a Freelancer
                             </h4>
@@ -953,13 +953,13 @@ export default function Home() {
                             <div className="col-7">
                               <Link
                                 className="color-gray-700 text-sm mr-15"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Travel
                               </Link>
                               <Link
                                 className="color-gray-700 text-sm"
-                                href="/blog-archive"
+                                href="/"
                               >
                                 # Lifestyle
                               </Link>
@@ -1036,7 +1036,7 @@ export default function Home() {
                           <div className="list-posts">
                             <div className="item-post wow animate__animated animate__fadeIn">
                               <div className="image-post">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <img
                                     src="assets/imgs/page/homepage1/img-post.jpg"
                                     alt="img"
@@ -1044,7 +1044,7 @@ export default function Home() {
                                 </Link>
                               </div>
                               <div className="info-post border-gray-800">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <h6 className="color-white">
                                     Creating is a privilege but it’s also a gift
                                   </h6>
@@ -1061,7 +1061,7 @@ export default function Home() {
                             </div>
                             <div className="item-post wow animate__animated animate__fadeIn">
                               <div className="image-post">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <img
                                     src="assets/imgs/page/homepage1/img-post2.jpg"
                                     alt="img"
@@ -1069,7 +1069,7 @@ export default function Home() {
                                 </Link>
                               </div>
                               <div className="info-post border-gray-800">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <h6 className="color-white">
                                     Being unique is better than being perfect
                                   </h6>
@@ -1086,7 +1086,7 @@ export default function Home() {
                             </div>
                             <div className="item-post wow animate__animated animate__fadeIn">
                               <div className="image-post">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <img
                                     src="assets/imgs/page/homepage1/img-post3.jpg"
                                     alt="img"
@@ -1094,7 +1094,7 @@ export default function Home() {
                                 </Link>
                               </div>
                               <div className="info-post border-gray-800">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <h6 className="color-white">
                                     Every day, in every city and town across the
                                     country
@@ -1112,7 +1112,7 @@ export default function Home() {
                             </div>
                             <div className="item-post wow animate__animated animate__fadeIn">
                               <div className="image-post">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <img
                                     src="assets/imgs/page/homepage1/img-post4.jpg"
                                     alt="img"
@@ -1120,7 +1120,7 @@ export default function Home() {
                                 </Link>
                               </div>
                               <div className="info-post border-gray-800">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <h6 className="color-white">
                                     Your voice, your mind, your story, your
                                     vision
@@ -1138,7 +1138,7 @@ export default function Home() {
                             </div>
                             <div className="item-post wow animate__animated animate__fadeIn">
                               <div className="image-post">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <img
                                     src="assets/imgs/page/homepage1/img-post4.jpg"
                                     alt="img"
@@ -1146,7 +1146,7 @@ export default function Home() {
                                 </Link>
                               </div>
                               <div className="info-post border-gray-800">
-                                <Link href="/single-sidebar">
+                                <Link href="/">
                                   <h6 className="color-white">
                                     Your voice, your mind, your story, your
                                     vision

@@ -2,7 +2,11 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/blogs": "pages/blogs.js",
+  "/page-portfolio": "pages/page-portfolio.js",
   "/page-about": "pages/page-about.js",
-  "/blog/[id]": "pages/blog/[id].js"
+  "/": "pages/index.js",
+  "/page-login": "pages/page-login.js",
+  "/page-contact": "pages/page-contact.js",
+  "/blogs": "pages/blogs.js",
+  "/page-signup": "pages/page-signup.js"
 }

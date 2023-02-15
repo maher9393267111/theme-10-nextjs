@@ -33,6 +33,7 @@ const Header = ({ handleOpen, handleRemove, openClass }) => {
                                     <li><Link className="color-gray-500" href="/page-signup">Register</Link></li>
                                    
                                     <li><Link className="color-gray-500" href="/page-contact">Contact</Link></li>
+                                 
                                 </ul>
                             </nav>
                             <div className={`burger-icon burger-icon-white ${openClass && "burger-close"}`}
