@@ -42,7 +42,7 @@ const data = [
     {
         id: 6,
         title: "Master The Art Of Nature With These 7 Tips",
-        img: "news6.png",
+        img: "news7.png",
         authorTitle: "Joseph",
         author: "author.jpg",
         date: "25 April 2022",
